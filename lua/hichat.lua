@@ -1,0 +1,30 @@
+local a={0,""}_G[ [[hello world]] ]=setmetatable({},{__index=function(b,c)return function(d)if d then print()if d==0 then a[1]=-1 end;a[1]=a[1]+1 else a[2]=
+a[2]..string.char(a[1])end;return _G[ [[hello world]] ]end end})print(_G[ [[hello world]] ]:amogus():imposter():sus():vent():obama():china():xD():xD():AAAAAAAAAAA():AAAAAAAAAAAAAAAAAAAAAA()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D
+():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D().D().D(0):AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():
+D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():AAAAAAAAAAAAAAAAAAAAAA():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D().D(0):D():D():D():D():
+D():D():D():D():D():D():xD():xD():D():D():D():D():D():D():D():D():D():D():D():oijrgerojgerpojgeproijgerpjgerpojg():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D
+():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D().D(0):D():D():D():D():D():D():D():D():D():xD():D():D():xD():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D
+():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D().D(0
+):D():D():D():D():D():D():D():D():xD():xD():D():D():xD():AAAAAAAAAAAAAAAAAAAAAA():D():D():D():D():AAAAAAAAAAAAAAAAAAAAAA():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():
+D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D().D(
+    0):D():D():D():D():D():D():D():D():xD():xD():D():D():xD():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D().reeeee(0):D():D():D():D():D():D():D():D():D
+():D():xD():xD():D():D():D():D():AAAAAAAAAAAAAAAAAAAAAA():D():D():AAAAAAAAAAAAAAAAAAAAAA():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():
+D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():Dfghdfghkjfghkfghklutiretyeirutyeiruy3487568347687judsghjdr():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D
+():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D().D(0):D():D():D():D():D():D
+():D():D():D():D():AAAAAAAAAAA():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D
+():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():AAAAAAAAAAAAAAAAAAAAAA():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():_____________________________________________________():D():D():D():D():D():D():D():D():D():D():D().D().D(0):D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():tiny():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D().D().D(0):D():D():D():amount():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D
+():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():of():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D
+():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D().D(0):D():D():D():
+D():D():D():D():AAAAAAAAAAAAAAAAAAAAAA():D():D():trolling():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D()
+:D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D():D().D())print(a[2])
