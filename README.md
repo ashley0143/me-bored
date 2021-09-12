@@ -12,3 +12,6 @@ amogus
 
 # why 
 whynot
+
+# what does this project do?
+absolty nothing
